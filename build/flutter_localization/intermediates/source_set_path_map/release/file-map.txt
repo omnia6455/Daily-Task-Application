@@ -1,0 +1,12 @@
+com.mastertipsy.flutter_localization-core-1.6.0-0 C:\Users\compu magic\.gradle\caches\transforms-3\26badf8cd6f91b17256ad503794e9f9e\transformed\core-1.6.0\res
+com.mastertipsy.flutter_localization-jetified-window-1.0.0-beta04-1 C:\Users\compu magic\.gradle\caches\transforms-3\29121fc722b43b4a71ecac19bf6f262b\transformed\jetified-window-1.0.0-beta04\res
+com.mastertipsy.flutter_localization-jetified-annotation-experimental-1.1.0-2 C:\Users\compu magic\.gradle\caches\transforms-3\9632f3b3861bd34b16a1d43ee7e32bca\transformed\jetified-annotation-experimental-1.1.0\res
+com.mastertipsy.flutter_localization-jetified-window-java-1.0.0-beta04-3 C:\Users\compu magic\.gradle\caches\transforms-3\a5d90619b0216b410e1d18f44014a2e8\transformed\jetified-window-java-1.0.0-beta04\res
+com.mastertipsy.flutter_localization-main-4 C:\Users\compu magic\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_localization-0.2.1\android\src\main\res
+com.mastertipsy.flutter_localization-release-5 C:\Users\compu magic\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_localization-0.2.1\android\src\release\res
+com.mastertipsy.flutter_localization-pngs-6 C:\Users\compu magic\StudioProjects\agenda\build\flutter_localization\generated\res\pngs\release
+com.mastertipsy.flutter_localization-resValues-7 C:\Users\compu magic\StudioProjects\agenda\build\flutter_localization\generated\res\resValues\release
+com.mastertipsy.flutter_localization-rs-8 C:\Users\compu magic\StudioProjects\agenda\build\flutter_localization\generated\res\rs\release
+com.mastertipsy.flutter_localization-mergeReleaseResources-9 C:\Users\compu magic\StudioProjects\agenda\build\flutter_localization\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.mastertipsy.flutter_localization-mergeReleaseResources-10 C:\Users\compu magic\StudioProjects\agenda\build\flutter_localization\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.mastertipsy.flutter_localization-merged_res-11 C:\Users\compu magic\StudioProjects\agenda\build\flutter_localization\intermediates\merged_res\release
